@@ -13,8 +13,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "http://localhost",
-        "APP_KEY": "base64:SRQo/5AoW2eojCpJZRhjbwgbiLCiY03lcr4szI8jzKE=",
+        "APP_URL": "https://your.url.from.vercel.app",
+        "APP_KEY": "add API key here from your .env file",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
